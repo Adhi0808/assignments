@@ -1,1 +1,1 @@
-# assignments
+# flask-chat-demo
